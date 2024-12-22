@@ -1,0 +1,1 @@
+This repository contains a simple React Native application that demonstrates a compatibility error with a third-party library. The error occurs because the library uses an older version of React Native that is incompatible with the current version. The solution shows how to fix this error by updating the library or using a different library.
